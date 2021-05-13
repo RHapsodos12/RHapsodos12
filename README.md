@@ -1,19 +1,4 @@
 ### Hi there 👋
-
-<!--
-**RHapsodos12/RHapsodos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">An IT Engineer tryna being frontend developer from 🇲🇽</h3>
 
@@ -21,7 +6,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Rhapzod0s12#3623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Rhapzod0s12#3623" height="30" width="40" /></a>
+<a href="https://discord.gg/#3623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#3623" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
