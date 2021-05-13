@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">An IT Engineer tryna being frontend developer from 🇲🇽</h3>
+<h3 align="center">An IT Engineer tryna being frontend developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Express, Python and Azure**
 
